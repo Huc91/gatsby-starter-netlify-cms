@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: book-product
 title: Mario Strategy Guide
 date: 2020-09-01T08:43:36.238Z
 description: Super cool book 15 euro
