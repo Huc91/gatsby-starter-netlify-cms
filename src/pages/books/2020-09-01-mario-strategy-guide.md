@@ -1,10 +1,12 @@
 ---
 templateKey: book-product
 title: Mario Strategy Guide
+author: Taijo Matsumoto
+publisher: Nintendo
 date: 2020-09-01T08:43:36.238Z
-description: Super cool book
 price: 15
-available: available
+available: disponibile
+description: Super cool book
 featuredpost: true
 featuredimage: /img/81unsxgjkll.jpg
 tags:
